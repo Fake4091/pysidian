@@ -15,9 +15,7 @@ This program allows users to make notes, link/relate notes to other notes, and m
 
 ## **KEY FEATURES:**
 
-A functional notes app that gives you freedom with relations and importance
-An Easy to use, no hassle interface
-A good looking interface using only ascii characters
+A functional notes app that gives you freedom with relations and importance, an Easy to use, no hassle interface, and a good looking interface using only ascii characters
 
 ## **HOW TO USE (Visual Studio Code)**
 
