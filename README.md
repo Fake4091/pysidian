@@ -1,15 +1,15 @@
 <div align="center">
   <img style="width: 30%;" src="README_example/Pysidian.png" alt="pysidian logo">  
   
-  # **PYSIDIAN**
+# **PYSIDIAN**
 
 ## **DESCRIPTION**
 
 This program allows users to make notes, link/relate notes to other notes, and mark notes as important. It takes inspiration from obsidian notes, but sets itself apart by being made in python and allowing for the marking of notes as important
 
-|                                  COLOR PALETTE                                  |                                                      DEMO                                                      |
-| :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| <img style="width: 100%;" src="README_example/palette.png" alt="Color Palette"> | <video widith=100% controls><source src="README_example/Demo_Pysidian.mp4" type="video/mp4">DEMO Video</video> |
+|                                  COLOR PALETTE                                  |                                                     DEMO                                                      |
+| :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| <img style="width: 100%;" src="README_example/palette.png" alt="Color Palette"> | <video width=100% controls><source src="README_example/Demo_Pysidian.mp4" type="video/mp4">DEMO Video</video> |
 
 </div>
 
